@@ -8,8 +8,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 	Plug 'scrooloose/nerdtree'
 	" Better Syntax Support
 	Plug 'sheerun/vim-polyglot'
-	" Autocomplete : Stable version of coc
-	Plug 'neoclide/coc.nvim', {'branch': 'release'}
 	" Customization for bottom status/mode line 
 	Plug 'vim-airline/vim-airline'
 	" Comment multiples lines
